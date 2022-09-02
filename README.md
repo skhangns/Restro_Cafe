@@ -8,9 +8,9 @@ Project, with a frontend built in React & Redux and a backend built in Django AP
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [Frontend LIVE DEMO](https://restore-cafe-frontend-rahul.herokuapp.com/) here!!
+Check out [Frontend LIVE DEMO]() here!!
 
-Check out [Backend](https://restore-cafe-backend-rahul.herokuapp.com/admin/) here!!
+Check out [Backend]() here!!
 
 ## Tech used
 
